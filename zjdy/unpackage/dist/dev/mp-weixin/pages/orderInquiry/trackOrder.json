@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "查询订单",
+  "backgroundColor": "#0055ff",
+  "usingComponents": {
+    "refresh": "/components/refresh",
+    "nav-tab": "/components/navTab",
+    "tab-bar4": "/components/tabBar4"
+  }
+}

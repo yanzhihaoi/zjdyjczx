@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/myInfo/myinfo",
+    "pages/myInfo/billflow",
+    "pages/myInfo/ucenter",
+    "pages/orderInquiry/trackOrder",
+    "pages/orderInquiry/checkReport",
+    "pages/orderOnline/sampleRegistration",
+    "pages/orderOnline/confirOrder",
+    "pages/orderOnline/payOrder",
+    "pages/orderOnline/addSample",
+    "pages/orderOnline/sampleNorms",
+    "pages/index/index",
+    "pages/login/findpwd",
+    "pages/login/register",
+    "pages/orderOnline/selectEntrustedUnit",
+    "pages/orderOnline/selectSample",
+    "pages/orderInquiry/orderDetails"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "检测中心",
+    "navigationBarBackgroundColor": "#bdbdbd",
+    "backgroundColorBottom": "#0000FF",
+    "backgroundColor": "#9f9f9f"
+  },
+  "usingComponents": {}
+}

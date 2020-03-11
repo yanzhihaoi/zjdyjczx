@@ -1,0 +1,125 @@
+{
+	"pages": [
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"app-plus": {
+					"bounce": "none"
+				}
+			}
+		},
+		{
+		    "path" : "pages/myInfo/myinfo",
+		    "style": {
+		    	"navigationBarTitleText": "个人信息"
+		    }
+		},
+		{
+		    "path" : "pages/myInfo/billflow",
+		    "style" : {
+				"navigationBarTitleText": "账单流水"
+			}
+		},
+		{
+		    "path" : "pages/myInfo/ucenter",
+		    "style" : {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/orderInquiry/trackOrder",
+			"style": {
+				"navigationBarTitleText": "查询订单",
+				"backgroundColor": "#0055ff"
+			}
+		},{
+			"path": "pages/orderInquiry/checkReport",
+			"style": {
+				"navigationBarTitleText": "检测报告"
+			}
+		} ,
+
+		{
+			"path": "pages/orderOnline/sampleRegistration",
+			"style": {
+				"navigationBarTitleText": "样品登记",
+				"backgroundColor": "#000000"
+			}
+		},
+		{
+			"path": "pages/orderOnline/confirOrder",
+			"style": {
+				"navigationBarTitleText": "确认订单"
+			}
+		},
+		{
+			"path": "pages/orderOnline/payOrder",
+			"style": {
+				"navigationBarTitleText": "支付"
+			}
+		},
+		{
+			"path": "pages/orderOnline/addSample",
+			"style": {
+				"navigationBarTitleText": "增加样品"
+			}
+		},
+		{
+			"path": "pages/orderOnline/sampleNorms",
+			"style": {
+				"navigationBarTitleText": "送样要求"
+			}
+		},
+
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "主页"
+			}
+		},
+
+		{
+			"path": "pages/login/findpwd",
+			"style": {
+				"navigationBarTitleText": "找回密码"
+			}
+		},
+		{
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "注册账号"
+			}
+		},
+		{
+			"path": "pages/orderOnline/selectEntrustedUnit",
+			"style": {
+				"navigationBarTitleText": "请选择委托单位",
+				"backgroundColor": "#818181"
+			}
+		},
+		{
+			"path": "pages/orderOnline/selectSample",
+			"style": {
+				"navigationBarTitleText": "选择样品"
+			}
+		}
+
+		, {
+			"path": "pages/orderInquiry/orderDetails",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "检测中心",
+		"navigationBarBackgroundColor": "#bdbdbd",
+		"backgroundColorBottom": "#0000FF",
+		"backgroundColor": "#9f9f9f",
+		"app-plus": {
+			"bounce": "none"
+		}
+	}
+}

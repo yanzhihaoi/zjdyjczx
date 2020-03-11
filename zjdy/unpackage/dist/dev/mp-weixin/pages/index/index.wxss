@@ -1,0 +1,27 @@
+
+.intro {
+	font-size: 14px;
+	line-height: 24px;
+}
+.img {
+	width: 100%;
+}
+.logoimg {
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 50%;
+	margin-left: 5%;
+	margin-top: 10%;
+}
+.nav-list{
+	margin-top: 5%;
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:flex;
+}
+.nav-enter{
+	display: flexbox;
+	width:25%;
+	text-align: center;
+}
+
